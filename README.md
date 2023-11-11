@@ -1,4 +1,4 @@
-# MakeCode-Arcade-Joanaa
+# MakeCode-Arcade-Joana
 Actividad de clase 
 Debe de realizar una actividad similar a la de clase, donde un ser animado capture objetos. Recuerda poner un temporizador y un contador. 
 
